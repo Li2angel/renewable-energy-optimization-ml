@@ -31,3 +31,15 @@ This project explores global renewable energy consumption patterns using World B
 ### 📍 Next Steps
 - Clean missing data and choose consistent year range
 - Visualize country clusters or regional differences
+
+## 📅 Day 2 – 04/07/205
+### ✅ What I Did
+- Visualized missing data trends
+- Selected relevant years (2000–2020)
+- Dropped countries with excessive nulls
+- Filled missing values with row-wise mean
+
+### 🧠 What I Learned
+- Data quality varies significantly by country
+- Row-wise mean works well for small gaps, but regional imputation could be more precise
+
